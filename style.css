@@ -1,0 +1,85 @@
+		
+		/*코멘트*/
+
+			@font-face{
+			src:  url("../typo/ZenTokyoZoo-Regular.ttf");
+			font-family: "tokyo";
+			}
+
+			*{
+				box-sizing: border-box;
+			}
+
+		h1 {
+			font-family: "Zen Tokyo Zoo", cursive;
+			margin-top: 50px;
+			margin-bottom: 220px;
+			font-weight: 500;
+			font-size: 30px;
+			background-color: mistyrose;
+			padding: 30px;
+			border-radius: 120px;
+			width: 155px;
+			margin-left: 20px;
+			
+			
+		}
+		body{
+			background-color: floralwhite;
+		}
+		.intro {
+			text-align: center;
+			font-size: 80px;
+			margin-top: 50px;
+			color: darkslategrey;
+			
+		}
+		.quote {
+			text-align: center;
+			font-size: 30px;
+			margin-top: 20px;
+			margin-bottom: 450px;
+			color: darkgrey;
+		}
+    	.Quote {font-family: "Times New Roman",Times, serif;
+
+      		 text-align: center;
+
+    }
+
+		.desserts{
+			background-color: transparent;
+			border-radius: 50px;
+			margin-bottom: 50px;
+			padding: 50px;
+			width: 400px;
+			margin-left: auto;
+			margin-right: auto;
+			border: 10px solid palevioletred;
+			box-sizing: content-box;
+			
+		}
+
+		.desserts .name{
+			text-align: center;
+		}
+		.desserts .looks{
+			display: block;
+			margin-right: auto;
+			margin-left: auto;
+			margin-top: 40px;
+			margin-bottom: 40px;
+		}
+		.desserts .description {
+			text-align: center;
+		}
+
+
+		.end { color: white;
+			background-color: #97E7CE;
+      	text-align: center;
+     	font-size: 54px;
+   
+      padding-bottom: 300px;
+      
+		}
